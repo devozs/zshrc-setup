@@ -30,12 +30,23 @@ source /home/$USER/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 source /home/$USER/.zsh/zsh-history-substring-search/zsh-history-substring-search.zsh
 ```
 
-### 4. Source zshrc
+### 4. Install Starship
+```bash
+curl -sS https://starship.rs/install.sh | sh
+```
+
+### 5. Install Fonts
+```bash
+wget https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/NerdFontsSymbolsOnly.zip
+unzip NerdFontsSymbolsOnly.zip -d ~/.fonts
+```
+
+### 6. Source zshrc
 ```bash
 source ~/.zshrc
 ```
 
-
 ### References
 
 - `https://starship.rs/guide/`
+- `https://www.nerdfonts.com/`
