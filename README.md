@@ -34,3 +34,8 @@ source /home/$USER/.zsh/zsh-history-substring-search/zsh-history-substring-searc
 ```bash
 source ~/.zshrc
 ```
+
+
+### References
+
+- `https://starship.rs/guide/`
