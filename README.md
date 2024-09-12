@@ -1,4 +1,4 @@
-# Zsh Setup with Plugins
+# Zsh Setup with Starship and Plugins
 
 This README provides instructions to set up your Zsh environment with the necessary plugins for enhanced functionality.
 
@@ -47,6 +47,5 @@ source ~/.zshrc
 ```
 
 ### References
-
 - `https://starship.rs/guide/`
 - `https://www.nerdfonts.com/`
